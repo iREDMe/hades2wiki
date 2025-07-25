@@ -1,3 +1,4 @@
 # Hades II - The Wiki
 
-[woah](olympians/zeus.md)
+## Olympians
+[Zeus](olympians/zeus.md)
